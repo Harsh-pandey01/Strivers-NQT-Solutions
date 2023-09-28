@@ -7,7 +7,7 @@
                                                              
                                                              // approach1 :-
                                                 // sort the arrays using inbuild c++ sort 
-                                         // the last element will be smallest , hence ans  = arr[n-1] , where n is the size of array;
+                                         // the last element will be largest , hence ans  = arr[n-1] , where n is the size of array;
 
 
 // int arr[5] = {4,3,7,8,1} ;
